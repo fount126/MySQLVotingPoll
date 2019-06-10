@@ -1,4 +1,4 @@
-<!DOCTYLE html> 
+<!DOCTYPE html> 
 <html>
 	<head>
 		<title>Presidential Election</title>
